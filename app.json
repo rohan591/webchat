@@ -1,5 +1,5 @@
 {
-  "name": "Node.js Getting Started",
+  "name": "NodeChatSystem",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/rohan591/webchat",
   "keywords": ["node", "express", "static"]
